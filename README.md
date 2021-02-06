@@ -8,6 +8,7 @@ I'm also Ph.D. candidate who is lazy 😄 and my thesis subject is Parallel prog
 
 - 👔 Software Engineer, A.I and M.L specialist
 - 🐍 Python Lover, Django
+- ⚛️ React master
 - 📱 Mobile developer with using Native, React Native or Flutter
 - 🎼 Musician, I love music and driving car 😄
 - 📫 How to reach me: burakozturk16@gmail.com
