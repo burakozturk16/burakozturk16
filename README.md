@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
+<img align="right" src="https://github.com/burakozturk16/burakozturk16/blob/master/burakstory.jpg" alt="Illustration of Burak is coding in background" width=400px/>
 
 ### Hi, I'm Burak 👋
 
