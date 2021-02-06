@@ -2,11 +2,12 @@
 
 ### Hi, I'm Burak 👋
 
-I’m an iOS developer, writer and public speaker. I'm the creator of [We Read Too](wereadtoo.com), a book resource app that features books for kids and teens with main characters of colors written by Black, Latinx, Asian and Indigenous authors. I currently work as a Senior Software Engineer at Calm. 
+I’m a software engineer with tons of skills like Nodejs, Django, Php and Java for backend systems, I'm proficient at native iOS and Android development, game development also I'm frontend team lead in a company and we use React and React Native stack for frontend works. 
 
-- 📱  I’m currently working on Calm, We Read Too and Irth App.
-- 🤓 I’m currently learning SwiftUI.
-- 💬  Ask me about iOS development, Swift, accessibility.
-- 📫  How to reach me: kaya@hey.com or Twitter [@kthomas901](twitter.com/kthomas901)
-- 😄  Pronouns: she/her
-- 🚴🏽‍♀️  Fun fact: I love cycling and I'm currently building up my mileage so I can do my first century ride!
+I'm also Ph. D. candidate who is lazy 😄 and my thesis subject is Parallel programming based path planning for multi autonomous unmanned vehicles.
+
+- 👔 Software Engineer, A.I and M.L specialist
+- 🐍 Python Lover, Django
+- 📱 Mobile developer with using Native, React Native or Flutter
+- 🎼 Musician, I love music and driving car 😄
+- 📫 How to reach me: burakozturk16@gmail.com
