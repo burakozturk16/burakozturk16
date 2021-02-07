@@ -1,4 +1,4 @@
-<a href="https://github.com/burakozturk16/burakozturk16/blob/main/burak_story.mp4" target="_blank"><img align="right" style="float:right" src="https://github.com/burakozturk16/burakozturk16/blob/main/burakstory.jpg" alt="Illustration of Burak is coding in background" width=350px/></a>
+<a href="https://youtu.be/0z-GidYL04k" target="_blank"><img align="right" style="float:right" src="https://github.com/burakozturk16/burakozturk16/blob/main/burakstory.jpg" alt="Illustration of Burak is coding in background" width=350px/></a>
 
 ### Hi, I'm Burak 👋
 
